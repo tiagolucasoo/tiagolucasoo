@@ -1,20 +1,12 @@
 <h2 align="left">👋 Olá, sou o Tiago Lucas — Estudante de ADS e Desenvolvedor em formação...</h2>
 
-<table>
-  <tr>
-    <td style="width: 70%; vertical-align: top; border: none;">
-      <p align="justify">
-        Sou estudante de Análise e Desenvolvimento de Sistemas no IFPR - Campus Londrina, com formação técnica em Informática integrada ao ensino médio.
-        Possuo conhecimentos sólidos em tecnologia, adquiridos tanto na formação técnica quanto em experiências práticas.<br><br>
-        Além da área de TI, atuei nas áreas administrativa e de compras, desenvolvendo habilidades como organização, negociação, controle de processos e comunicação.<br><br>
-        Atualmente, busco um estágio para iniciar minha trajetória profissional na área de desenvolvimento e expandir meus conhecimentos na prática.
-      </p>
-    </td>
-    <td style="width: 30%; vertical-align: top; text-align: center; border: none;">
-      <img src="https://www.gifcen.com/wp-content/uploads/2021/04/luffy-gif-9.gif" width="200" style="border-radius: 10px;" />
-    </td>
-  </tr>
-</table>
+<p align="justify">
+      Sou estudante de Análise e Desenvolvimento de Sistemas no IFPR - Campus Londrina, com formação técnica em Informática integrada ao ensino médio.
+      Possuo conhecimentos sólidos em tecnologia, adquiridos tanto na formação técnica quanto em experiências práticas.<br><br>
+      Além da área de TI, atuei nas áreas administrativa e de compras, desenvolvendo habilidades como organização, negociação, controle de processos e comunicação.<br><br>
+      Atualmente, busco um estágio para iniciar minha trajetória profissional na área de desenvolvimento e expandir meus conhecimentos na prática.
+</p>
+
 
 ###
 
