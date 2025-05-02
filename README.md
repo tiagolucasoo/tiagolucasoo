@@ -59,7 +59,7 @@
 
 <h2 align="left">📫 Contato</h2>
 
-<p align="left">Se quiser trocar uma ideia, colaborar em projetos ou oferecer uma oportunidade de estágio, entre em contato comigo:</p>
+<p align="left">Se quiser trocar uma ideia, colaborar em projetos ou oferecer uma oportunidade, entre em contato comigo:</p>
 
 <h3 align="left">📧 Email: <a href="mailto:tiago.lucas.oliveira18@gmail.com">tiago.lucas.oliveira18@gmail.com</a><br><br>💼 LinkedIn: <a href="https://linkedin.com/in/tiagoollucas">linkedin.com/in/tiagoollucas</a></h3>
 
