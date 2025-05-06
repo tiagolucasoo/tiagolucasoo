@@ -65,4 +65,4 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
+<img src="https://i.pinimg.com/originals/8a/e1/2b/8ae12b25717808b46f690ed9b19b2fc0.gif" alt="Gif" width="50%"/>
