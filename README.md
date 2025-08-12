@@ -57,6 +57,45 @@
 
 ###
 
+<h2 align="left">🚀 Meus Principais Projetos</h2>
+
+---
+
+#### 🔮 Consulta de Horóscopo em C#
+- **Descrição:** Aplicação de console desenvolvida em um desafio de fim de semana para aprender C#. O projeto consome duas APIs públicas distintas, uma para dados e outra para tradução em tempo real.
+- **Tecnologias:** C#, .NET, HttpClient, JSON.
+- **Links:**
+    - [Ver no GitHub](https://github.com/tiagolucasoo/horoscopo)
+
+---
+
+#### 🛒 Sistema de Sugestão de Compras (SSEC)
+- **Descrição:** Aplicação desktop desenvolvida em Python com o padrão MVC. A ferramenta analisa históricos de venda para gerar sugestões otimizadas de reposição de estoque.
+- **Tecnologias:** Python, SQLite, CustomTkinter, MVC.
+- **Links:**
+    - [Ver no GitHub](https://github.com/tiagolucasoo/ssec)
+
+---
+
+#### 🏥 Gestão de Clínica
+- **Descrição:** Aplicação desktop para gestão de uma clínica médica, com módulos de cadastro e consulta de pacientes, médicos e agendamentos.
+- **Tecnologias:** Python, SQLite, CustomTkinter, MVC.
+- **Links:**
+    - [Ver no GitHub](https://github.com/tiagolucasoo/clinica)
+
+---
+
+#### 🌦️ Aplicação de Previsão do Tempo (Weather Tech)
+- **Descrição:** Uma aplicação web leve e moderna para consulta de previsão do tempo em tempo real, com busca global de cidades e geolocalização automática.
+- **Tecnologias:** HTML, CSS, JavaScript (ES6+), APIs (Open-Meteo, Nominatim).
+- **Links:**
+    - [Ver no GitHub](https://github.com/tiagolucasoo/weather-tech)
+    - [GitHub Pages](https://tiagolucasoo.github.io/weather_tech/)
+
+---
+
+###
+
 <h2 align="left">📫 Contato</h2>
 
 <p align="left">Se quiser trocar uma ideia, colaborar em projetos ou oferecer uma oportunidade, entre em contato comigo:</p>
