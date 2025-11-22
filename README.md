@@ -1,107 +1,62 @@
-<h2 align="left">👋 Olá, sou o Tiago Lucas — Estudante de ADS e Desenvolvedor em formação...</h2>
+# 👋 Olá, sou o Tiago Lucas
 
-<p align="justify">
-      Sou estudante de Análise e Desenvolvimento de Sistemas no IFPR - Campus Londrina, com formação técnica em Informática integrada ao ensino médio.
-      Possuo conhecimentos sólidos em tecnologia, adquiridos tanto na formação técnica quanto em experiências práticas.<br><br>
-      Além da área de TI, atuei nas áreas administrativa e de compras, desenvolvendo habilidades como organização, negociação, controle de processos e comunicação.<br><br>
-      <b>Atualmente, busco um estágio para iniciar minha trajetória profissional na área de desenvolvimento e expandir meus conhecimentos na prática.</b>
-</p>
+### Dev. Back-End | Estudante de ADS | Full Stack em formação
 
+Sou estudante de **Análise e Desenvolvimento de Sistemas** no IFPR - Campus Londrina e Técnico em Informática. Atualmente, atuo como **Estagiário em Back-End**, aplicando na prática conhecimentos sólidos de tecnologia e desenvolvimento de software.
 
-###
+Além da área técnica, trago uma bagagem das áreas administrativa e de compras, o que me proporcionou soft skills importantes como organização, negociação e visão de processos. Meu objetivo é seguir evoluindo minhas habilidades em arquitetura de software e desenvolvimento Full Stack.
 
-<br clear="both">
+---
 
-<div align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=tiagolucasoo&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=pt-br&hide_border=true&cache_seconds=7200)" height="150" alt="stats graph" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=tiagolucasoo&locale=pt-br&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=true" height="150" alt="languages graph" />
+## 💻 Tecnologias e Ferramentas
+
+### ⚙️ Back-End
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
+![NodeJS](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+
+### 🎨 Front-End
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+
+### 🗄️ Banco de Dados
+![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
+![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
+
+### 🛠️ Ferramentas & Utilidades
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
+![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)
+
+### 🎯 Foco de Estudos Atual
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+
+---
+
+## 📊 GitHub Stats
+![Tiago's GitHub stats](https://github-readme-stats.vercel.app/api?username=tiagolucasoo&show_icons=true&theme=dracula)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tiagolucasoo&layout=compact&theme=dracula)
+
+---
+
+## 📫 Contato
+
+  <a href="mailto:tiago.lucas.oliveira18@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+  </a>
+  <a href="https://linkedin.com/in/tiagoollucas" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+
+---
+
+<div align="center">
+<i>⚡ Potterhead & 👒 Mugiwara nas horas vagas.</i>
 </div>
-
-###
-
-<h2 align="left">💻 Tecnologias que utilizo</h2>
-
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30" alt="git logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="30" alt="java logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="30" alt="mysql logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" height="30" alt="sqlite logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="40" alt="csharp logo" />
-</div>
-
-###
-
-<h2 align="left">🎯 Em meus planos de estudo</h2>
-
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="40" alt="php logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo" />
-</div>
-
-###
-
-<h2 align="left">🚀 Meus Principais Projetos</h2>
-
----
-
-#### 🔮 Consulta de Horóscopo em C#
-- **Descrição:** Aplicação de console desenvolvida em um desafio de fim de semana para aprender C#. O projeto consome duas APIs públicas distintas, uma para dados e outra para tradução em tempo real.
-- **Tecnologias:** C#, .NET, HttpClient, JSON.
-- **Links:**
-    - [Ver no GitHub](https://github.com/tiagolucasoo/horoscopo)
-
----
-
-#### 🛒 Sistema de Sugestão de Compras (SSEC)
-- **Descrição:** Aplicação desktop desenvolvida em Python com o padrão MVC. A ferramenta analisa históricos de venda para gerar sugestões otimizadas de reposição de estoque.
-- **Tecnologias:** Python, SQLite, CustomTkinter, MVC.
-- **Links:**
-    - [Ver no GitHub](https://github.com/tiagolucasoo/ssec)
-
----
-
-#### 🏥 Gestão de Clínica
-- **Descrição:** Aplicação desktop para gestão de uma clínica médica, com módulos de cadastro e consulta de pacientes, médicos e agendamentos.
-- **Tecnologias:** Python, SQLite, CustomTkinter, MVC.
-- **Links:**
-    - [Ver no GitHub](https://github.com/tiagolucasoo/clinica)
-
----
-
-#### 🌦️ Aplicação de Previsão do Tempo (Weather Tech)
-- **Descrição:** Uma aplicação web leve e moderna para consulta de previsão do tempo em tempo real, com busca global de cidades e geolocalização automática.
-- **Tecnologias:** HTML, CSS, JavaScript (ES6+), APIs (Open-Meteo, Nominatim).
-- **Links:**
-    - [Ver no GitHub](https://github.com/tiagolucasoo/weather-tech)
-    - [GitHub Pages](https://tiagolucasoo.github.io/weather_tech/)
-
----
-
-###
-
-<h2 align="left">📫 Contato</h2>
-
-<p align="left">Se quiser trocar uma ideia, colaborar em projetos ou oferecer uma oportunidade, entre em contato comigo:</p>
-
-<h3 align="left">📧 Email: <a href="mailto:tiago.lucas.oliveira18@gmail.com">tiago.lucas.oliveira18@gmail.com</a><br><br>💼 LinkedIn: <a href="https://linkedin.com/in/tiagoollucas">linkedin.com/in/tiagoollucas</a></h3>
-
-###
-
-<img src="https://i.pinimg.com/originals/8a/e1/2b/8ae12b25717808b46f690ed9b19b2fc0.gif" alt="Gif" width="50%"/>
