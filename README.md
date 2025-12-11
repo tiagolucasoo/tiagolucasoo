@@ -41,11 +41,21 @@ Além da área técnica, trago uma bagagem das áreas administrativa e de compra
 
 ---
 
-## 📊 GitHub Stats
-![Tiago's GitHub stats](https://github-readme-stats.vercel.app/api?username=tiagolucasoo&show_icons=true&theme=dracula)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tiagolucasoo&layout=compact&theme=dracula)
+## 📊 GitHub Estatísticas
 
----
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=tiagolucasoo&theme=dracula" width="33%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=tiagolucasoo&theme=dracula" width="33%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=tiagolucasoo&theme=dracula&utcOffset=-3" width="33%" />
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=tiagolucasoo&bg_color=0d1117&color=bd93f9&line=6272a4&point=f8f8f2&area=true&hide_border=true" width="100%" />
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=tiagolucasoo&theme=default" width="100%" />
+</div>
+
 
 ## 📫 Contato
 
