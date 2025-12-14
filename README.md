@@ -44,9 +44,8 @@ Além da área técnica, trago uma bagagem das áreas administrativa e de compra
 ## 📊 GitHub Estatísticas
 
 <div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=tiagolucasoo&theme=dracula" width="33%" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=tiagolucasoo&theme=dracula" width="33%" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=tiagolucasoo&theme=dracula&utcOffset=-3" width="33%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=tiagolucasoo&theme=dracula" width="49%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=tiagolucasoo&theme=dracula" width="49%" />
 </div>
 
 <br/>
